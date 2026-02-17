@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yavé Emmanuel Vargas Márquez</h1>
-<h3 align="center">AI Engineer | Backend Developer | Data Science Enthusiast</h3>
+<h3 align="center"> AI Engineer | Backend Developer | Data Science and Machine learning Enthusiast</h3>
 
 <p align="center">
 Building AI-powered systems with Python, FastAPI and Large Language Models.
@@ -10,15 +10,15 @@ Building AI-powered systems with Python, FastAPI and Large Language Models.
 ## 🧠 About Me
 
 🎓 Computer Systems Engineer  
-🤖 Focused on NLP, LLMs and AI-powered APIs  
-🚀 Designing scalable backend systems for real-world applications  
+🤖 Focused on NLP, SLMs, LLMs and AI-powered APIs  
+🚀 Designing backend systems  
 
 I specialize in:
-- Academic article summarization using LLMs
-- PDF text extraction and preprocessing pipelines
 - REST API development with FastAPI
 - Data Mining using SQL (MySQL & PostgreSQL)
 - AI model evaluation and optimization
+- Academic article summarization using LLMs
+- PDF text extraction and preprocessing pipelines
 
 ---
 
@@ -35,6 +35,9 @@ Backend system that:
 
 **Core stack:**
 Python · FastAPI · Ollama · NLP · SQL · Data Mining
+
+**Paper:**
+<a href="https://ieeexplore.ieee.org/document/11311884" target="_blank"></a>
 
 ---
 
@@ -99,8 +102,8 @@ Python · FastAPI · Ollama · NLP · SQL · Data Mining
 ## 📫 Contact
 
 📍 Mexico  
-💼 LinkedIn: (Add your link)  
-📧 Email: (Add your email)
+💼 LinkedIn: <a href="https://www.linkedin.com/in/yave-emmanuel-vargas-marquez/" target="_blank"> Yave Vargas</a>
+📧 Email: yave.vargas16@gmail.com
 
 ---
 
