@@ -9,7 +9,7 @@ Building AI-powered systems with Python, FastAPI and Large Language Models.
 
 ## 🧠 About Me
 
-🎓 Computer Systems Engineer from UPIIZ, IPN
+🎓 Computer Systems Engineer from UPIIZ, IPN 
 🤖 Focused on NLP, SLMs, LLMs and AI-powered APIs  
 🚀 Designing backend systems  
 
