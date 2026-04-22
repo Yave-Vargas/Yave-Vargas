@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yavé Emmanuel Vargas Márquez</h1>
-<h3 align="center"> AI Engineer | Backend Developer | Data Science and Machine learning Enthusiast</h3>
+<h3 align="center"> Data Science and AI Systems Enthusiastic</h3>
 
 <p align="center">
 Building AI-powered systems with Python, FastAPI and Large Language Models.
+Building Data Science projects.
 </p>
 
 ---
@@ -15,7 +16,7 @@ Building AI-powered systems with Python, FastAPI and Large Language Models.
 
 I specialize in:
 - REST API development with FastAPI
-- Data Mining using SQL (MySQL & PostgreSQL)
+- Data Mining using Python and SQL (MySQL & PostgreSQL)
 - AI model evaluation and optimization
 - Academic article summarization using LLMs
 - PDF text extraction and preprocessing pipelines
@@ -80,12 +81,6 @@ Python · FastAPI · Ollama · NLP · SQL · Data Mining
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Frontend & Mobile</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/> </a>
 </p>
 
 ---
