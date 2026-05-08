@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Yavé Emmanuel Vargas Márquez</h1>
 
 <h3 align="center">
