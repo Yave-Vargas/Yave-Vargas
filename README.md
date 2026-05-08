@@ -1,3 +1,8 @@
+<p align="center">
+  🇺🇸 <a href="./README.md">English</a> |
+  🇲🇽 <a href="./README.es.md">Español</a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Yavé Emmanuel Vargas Márquez</h1>
 
 <h3 align="center">
