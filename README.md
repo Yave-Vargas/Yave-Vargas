@@ -1,105 +1,158 @@
+```md
 <h1 align="center">Hi 👋, I'm Yavé Emmanuel Vargas Márquez</h1>
-<h3 align="center"> Data Science and AI Systems Enthusiastic</h3>
+
+<h3 align="center">
+Data Scientist | AI & NLP Enthusiast
+</h3>
 
 <p align="center">
-Building AI-powered systems with Python, FastAPI and Large Language Models.
-Building Data Science projects.
+Computer Systems Engineer focused on Data Science, NLP, Machine Learning and AI-powered backend systems.
+</p>
+
+<p align="center">
+  <a href="https://yave-vargas-portfolio.vercel.app" target="_blank">
+    🌐 Portfolio
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/yave-emmanuel-vargas-marquez/" target="_blank">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:yave.vargas16@gmail.com">
+    Email
+  </a>
+  •
+  <a href="https://github.com/Yave-Vargas" target="_blank">
+    GitHub
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-🎓 Computer Systems Engineer from UPIIZ, IPN 
-🤖 Focused on NLP, SLMs, LLMs and AI-powered APIs  
-🚀 Designing backend systems  
+🎓 Computer Systems Engineer from IPN – UPIIZ  
+📍 Zacatecas, Mexico  
 
-I specialize in:
-- REST API development with FastAPI
-- Data Mining using Python and SQL (MySQL & PostgreSQL)
-- AI model evaluation and optimization
-- Academic article summarization using LLMs
-- PDF text extraction and preprocessing pipelines
+I develop Data Science and NLP solutions using Machine Learning and Large Language Models.
 
----
+My experience includes:
+- AI-powered backend systems
+- REST APIs with FastAPI
+- NLP pipelines for PDF processing
+- LLM/SLM inference with Ollama
+- Data analysis and visualization
+- Model evaluation and optimization
 
-## 🔬 Featured Project
-
-### Academic Article Summarization API
-
-Backend system that:
-
-- Extracts structured text from scientific PDFs
-- Cleans and normalizes the content
-- Uses Large Language Models for summarization
-- Returns clean plain-text output via REST API
-
-**Core stack:**
-Python · FastAPI · Ollama · NLP · SQL · Data Mining
-
-**Paper:**
-<a href="https://ieeexplore.ieee.org/document/11311884" target="_blank"></a>
+I am especially interested in:
+- Data Science
+- NLP & LLMs
+- Machine Learning
+- Backend systems
+- AI automation
 
 ---
 
-# 🛠 Languages and Tools
+# 🔬 Featured Project
 
-<h3 align="left">AI & Data Science</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a>
+## YEGI — AI Summarization Platform
+
+Web platform and API for scientific article summarization using LLMs and SLMs.
+
+### Features
+- Scientific PDF text extraction
+- NLP preprocessing pipelines
+- Local LLM inference with Ollama
+- REST API architecture with FastAPI
+- Hyperparameter optimization for summarization quality
+
+### Tech Stack
+Python · FastAPI · Ollama · PyTorch · NLP · Docker · PostgreSQL
+
+### Research & Publication
+📄 IEEE Xplore Publication:  
+https://ieeexplore.ieee.org/document/11311884
+
+📘 Academic Book Chapter:  
+http://ricaxcan.uaz.edu.mx/jspui/handle/20.500.11845/4203
+
+---
+
+# 🛠 Technical Skills
+
+## Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Backend & Databases</h3>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> </a>
+## Data Science & AI
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">DevOps & Cloud</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
+## Backend & Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Programming</h3>
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
+## Analytics & Visualization
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📈 Currently Improving
+# 📈 Current Focus
 
-- LLM Fine-Tuning
-- AI evaluation without reference summaries
-- Scalable backend architectures
-- Production-level deployment
-
----
-
-## 📫 Contact
-
-📍 Mexico  
-💼 LinkedIn: <a href="https://www.linkedin.com/in/yave-emmanuel-vargas-marquez/" target="_blank"> Yave Vargas</a>
-📧 Email: yave.vargas16@gmail.com
+- LLM Evaluation
+- NLP Pipelines
+- AI-assisted automation
+- Machine Learning optimization
+- Production-ready AI systems
 
 ---
 
-⭐ Open to AI, Backend and Data Science opportunities.
+# 🎓 Education
+
+### Instituto Politécnico Nacional – UPIIZ
+B.Sc. in Computer Systems Engineering  
+2021 – 2025
+
+### Instituto Politécnico Nacional – CECyT 18
+Technical Degree in Digital Systems  
+2018 – 2021
+
+---
+
+# 🌎 Languages
+
+- Spanish — Native
+- English — B2
+
+---
+
+# 📫 Contact
+
+📧 yave.vargas16@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/yave-emmanuel-vargas-marquez/
+
+🌐 Portfolio  
+https://yave-vargas-portfolio.vercel.app
+
+---
+
+⭐ Open to opportunities in Data Science, AI, NLP and Backend Development.
+```
