@@ -200,5 +200,4 @@ https://yave-vargas-portfolio.vercel.app
 
 ---
 
-⭐ Abierto a oportunidades en Ciencia de Datos, IA, NLP y desarrollo backend.
-```
+⭐ Abierto a oportunidades en Ciencia de Datos, Análisis de datos, IA, NLP y desarrollo backend.
